@@ -257,9 +257,7 @@ This output demonstrates the rolling average calculation using SQL window functi
 
 Screenshot:
 
-```text
-result/rolling_average.png
-```
+![rolling_average](result/rolling_average.png)
 
 ---
 
@@ -269,9 +267,7 @@ This analytical output calculates daily percentage movement between opening and 
 
 Screenshot:
 
-```text
-result/price_change_analysis.png
-```
+![price_change_analysis](result/price_change_analysis.png)
 
 ---
 
@@ -280,10 +276,7 @@ result/price_change_analysis.png
 This output measures daily stock volatility using high and low price differences.
 
 Screenshot:
-
-```text
-result/volatility.png
-```
+![volatility](result/volatility.png)
 
 ---
 
@@ -293,9 +286,7 @@ This output identifies bullish/bearish signals and ranks top-performing stocks u
 
 Screenshot:
 
-```text
-results/top_gainers.png
-```
+![top_gainers](result/top_gainers.png)
 
 ---
 
